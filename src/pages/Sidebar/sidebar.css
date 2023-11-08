@@ -1,0 +1,68 @@
+
+
+.side-bar {
+    color: red;
+    font-size: 5em;
+    background: rgb(255, 255, 255);
+    width: 25%;
+    display: block;
+    padding: 0.2em;
+}
+.prof-img {
+    width: 1.5em;
+}
+
+.profile-image {
+    padding: 0.15em;
+}
+
+.profile-name {
+    font-size: 0.4em;
+    color: black;
+    display: flex;
+    padding-top: .2em;
+    padding-bottom: .2em;
+}
+.profile-location {
+    font-size: 0.2em;
+    color: black;
+    display: flex;
+    padding-top: .2em;
+    padding-bottom: .7em;
+}
+.view-profile {
+    display: flex;
+    padding-top: .2em;
+    padding-bottom: .2em;
+    background-color: rgb(64, 92, 250);
+    color: white;
+}
+
+.name-location-button {
+    display: block;
+    padding: .4em;
+    height: .3em;
+}
+
+
+.side-bar-upper {
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+    font-size: .3em;
+    color: rgb(53, 53, 53);
+    padding: 1em;
+}
+
+li {
+    padding: .7em;
+    border: 1em;
+    border-color: rgb(73, 73, 73);
+}
+
+a {
+    text-decoration:none;
+    color:rgb(63, 63, 63)
+}
